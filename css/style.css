@@ -6,5 +6,20 @@
 .main-header {
 	height: 110px;
 	color: #FFF;
-	background: royalblue;
+	background-color: royalblue;
+}
+.main-content {
+	padding: 20PX;
+	background-color: lightgrey;
+}
+.main-footer {
+	height: 100px;
+	color: #FFF;
+	background-color: #222;
+}
+.base {
+	padding-top: 50px;
+	color: #000
+	text-align: center; 
+	font-size: 24px;
 }
