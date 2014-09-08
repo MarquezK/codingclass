@@ -1,9 +1,10 @@
 .website {
 	color: #FFF;
 	background-color:#333366;
-	height: 125px;
-	text-align: center;
-	font-size: 24px;
+	float: center;
+	font-size: 35px;
+	padding: 20px 20px;
+
 }
 .Foobar-Inc{
 	color: #FFF;
@@ -13,6 +14,7 @@
 }
 ul{
 	list-style: none;
+
 
 }
 
@@ -24,14 +26,26 @@ ul{
 	text-align: center;
 }
 p {
-	padding-left: 300px;
+	padding-left: 200px;
 	font-size: 15px;
-	max-width: 500px;
+	max-width: 550px;
+	font-family: arial;
 }
 h2 {
-padding-left: 300px
+padding-left: 200px
 }
 .base {
 	padding-top: 50px;
 	text-align: center; 
+}
+.left-side {
+	float: left;
+}
+.little-poem {
+	font-size: 15px;
+	padding-left: 15px;
+
+}
+hr {
+	border-bottom: 1px black dotted;
 }
