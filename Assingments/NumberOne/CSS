@@ -16,10 +16,13 @@ ul{
 	list-style: none;
 
 
+
 }
 
  li a {
 	color: #996633;
+	{border-bottom: 1px black dotted;
+
 
 }
 .main-content{
@@ -38,14 +41,14 @@ padding-left: 200px
 	padding-top: 50px;
 	text-align: center; 
 }
+
+
 .left-side {
+	float: left;
+	width: 100px;
+}
+.img-source{
 	float: left;
 }
 .little-poem {
-	font-size: 15px;
-	padding-left: 15px;
-
-}
-hr {
-	border-bottom: 1px black dotted;
-}
+	
