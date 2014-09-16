@@ -1,0 +1,37 @@
+.container {
+	width: 960px;
+	margin: auto;
+}
+
+.main-header {
+	padding-top: 40px;
+	text-align: center;
+	height: 105px;
+	background-color: #666699;
+}
+
+.main-header span {
+	color:#fff ;
+	font-size: 38px;
+	float: left;
+	width: 160px;
+}
+
+.main-header span1 {
+	float: right;
+	color: #fff;
+	font-size: 15px;
+}
+
+
+.main-content {
+	border: 2px solid;
+	border-radius: 25px;
+}
+
+.sidebar ul{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	float:center;
+
